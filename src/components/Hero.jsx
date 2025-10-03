@@ -1,7 +1,7 @@
 import React from 'react'
 import girl from '../assets/girl.png'
 import star from '../assets/Vector.png'
-import mask from '../assets/Mask Group.png'
+import mask from '../assets/mask.png'
 import extra from '../assets/extra.png'
 
 
