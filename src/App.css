@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+  font-family: "Figtree", sans-serif;
+}
+
+.hero {
+  background-color: #ffcbd4;
+}
+
+.blur-border1 {
+  border: 1px solid #fa1239;
+  box-shadow: 0 0 4px 0px rgb(250 18 57);
+  background-color: white;
+  color: rgb(250 18 57);
+
+}
+
+.blur-border2 {
+
+  box-shadow: 0 0 5px 0px rgb(250 18 57);
+
+}
