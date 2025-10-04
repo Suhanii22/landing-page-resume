@@ -47,7 +47,7 @@ const Navbar = () => {
 
 
       {/* get a quote */}
-      <div className='pt-2 font-medium'> <button className=' rounded-full text-[18px]  p-2 pl-6 pr-6 bg-[#fa1239] text-white blur-border2  '> Get A Quote</button>
+      <div className='pt-2 hidden sm:block font-medium'> <button className=' rounded-full text-[18px]  p-2 pl-6 pr-6 bg-[#fa1239] text-white blur-border2  '> Get A Quote</button>
 
       </div>
     </div>

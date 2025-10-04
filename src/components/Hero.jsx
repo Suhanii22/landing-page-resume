@@ -21,22 +21,22 @@ const Hero = () => {
       </div>
 
 
-      <div className='w-full h-[821px] xl:w-[45%] pt-[200px] '>
+      <div className='w-full h-[500px] sm:h-[821px] xl:w-[45%] pt-[200px] '>
       
         {/* circles */}
 
-        <div className=' absolute left-[8%] sm:left-[20%] md:left-[18%] xl:left-auto xl:right-[55px] w-[400px] h-[400px] md:w-[634px] md:h-[634px] rounded-full  p-10 md:p-18  bg-[#ffd0d8]'>
+        <div className=' absolute left-[8%] sm:left-[20%] md:left-[18%] xl:left-auto xl:right-[55px] w-[200px] h-[200px] sm:w-[400px] sm:h-[400px] md:w-[634px] md:h-[634px] rounded-full p-6  sm:p-10 md:p-18  bg-[#ffd0d8]'>
 
-          <div className='w-[300px] h-[300px] md:w-[477px] md:h-[477px] rounded-full bg-[#fed8de]'>
+          <div className='w-[150px] h-[150px] sm:w-[300px] sm:h-[300px] md:w-[477px] md:h-[477px] rounded-full bg-[#fed8de]'>
 
           </div>
         </div>
 
 
-        <img className='w-[400px] md:w-auto absolute top-50 left-[8%] sm:left-[22%] xl:left-auto xl:right-30' src={girl} alt="" />
+        <img className='w-[250px] sm:w-[400px] md:w-auto absolute top-50 left-[8%] sm:left-[22%] xl:left-auto xl:right-30' src={girl} alt="" />
 
 
-        <div className='bg-[#f6f0f1]     top-[593px] left-[18%] md:left-[20%] xl:left-auto xl:right-[352px] rounded-xl absolute p-2 pl-4 pr-4  flex md:w-[350px] h-[117px]'>
+        <div className='bg-[#f6f0f1]  top-[400px]   sm:top-[593px] sm:left-[18%] md:left-[20%] xl:left-auto xl:right-[352px] rounded-xl absolute p-2 sm:pl-4 sm:pr-4  flex w-[330px] sm:w-[350px] h-[117px]'>
           <div className=' text-[#1cb098] text-[64px] font-semibold'>
             4.9
           </div>
@@ -55,7 +55,7 @@ const Hero = () => {
 
 
 
-        <div className='bg-[#f6f0f1]  gap-3  top-[747px] left-[30%] md:left-[48%] xl:left-auto xl:right-[47px] justify-center items-center  rounded-xl absolute p-2 pl-4 pr-4  flex w-[270px] h-[130px]'>
+        <div className='bg-[#f6f0f1]  gap-3 top-[530px] sm:top-[747px] left-[2%] sm:left-[30%] md:left-[48%] xl:left-auto xl:right-[47px] justify-center items-center  rounded-xl absolute p-2 pl-4 pr-4  flex w-[270px] h-[130px]'>
           <div className='  w-[90px] h-[90px]  mt-4'>
             <img className='w-[90px] h-[90px] ' src={mask} alt="" />
           </div>
