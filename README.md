@@ -3,7 +3,7 @@
 A responsive and modern **resume landing page** built with **React**, **Tailwind CSS**, and **Vite**.
 
 
-Live Link : https://landing-page-resume-34pl5rqxg-suhanii22s-projects.vercel.app
+Live Link : https://landing-page-resume.vercel.app
 
 ---
 
