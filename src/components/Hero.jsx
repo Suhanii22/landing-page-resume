@@ -14,7 +14,7 @@ const Hero = () => {
       <div className='w-full z-2 xl:w-[50%]  pl-[4%] pr-[2%] pt-[115px]  pb-[80px]'>
 
         <div className='text-[64px] font-bold'>Your Resume <span className='text-[#fa1239]'>Deserves A Yes <img className=' relative md:left-[40%] xl:left-auto' src={extra} alt="" /></span> Let's Make It Happen</div>
-        <div className='text-[16px] pt-7 leading-[34px]'>If Your Resume Isn't Getting Responses,It's Time For Upgrade Get An ATS-Optimizes Resume Crafted By HR Experts To Help You Land More Interviews. Our Resumes Are Designed To Get Foot In The Door And Place Your Name At Top Of The Shortlist</div>
+        <div className='text-[16px] pt-7 pr-2 leading-[34px]'>If Your Resume Isn't Getting Responses,It's Time For Upgrade Get An ATS-Optimizes Resume Crafted By HR Experts To Help You Land More Interviews. Our Resumes Are Designed To Get Foot In The Door And Place Your Name At Top Of The Shortlist</div>
         <div className='flex pt-9 gap-6'>
           <button className='p-2 pl-5 pr-5 rounded-full border font-medium text-[18px] blur-border1'>RESUME PAKAGES</button>
           <button className='p-2 pl-5 pr-5 rounded-full border font-medium text-[18px] bg-[#fa1239] text-white'>CONTACT US</button></div>
